@@ -1,5 +1,5 @@
-
-# Debugging Python Code
+# கணினி செயல்முறை நிரகளில் வழுநீக்கம் - ஒரு பயிற்சி நேக்க விளக்கம்
+இந்த பாடங்கள் ஆங்கிலத்தில் உள்ள 'Debugging Python Code,' என்ற பயிற்சி பாடங்களின் தமிழாக்கமாகும்.
 
 **Debug a series of bugs with a variety of debugging tools**
 
